@@ -14,7 +14,7 @@ Identify root causes of the profit drop using the transactional and operational 
 **CCTV Reports**: Incident logs for theft, queue times, staff buying and staff presence
 
 ## Key Metrics Tracked
-1. SAles Volume vs Basket size
+1. Sales Volume vs Basket size
 2. Gross margin % by department
 3. Shrinkage rate: voids + breakages + theft
 4. Customer churn: spend by loyalty segment
