@@ -24,5 +24,5 @@ Excel, SQL, Python, Matplotlib, Seaborn, PowerBI, Pandas, Jupyter
 
 ## How to Run
 1. Clone Repo
-2. Run'notebooks/01_eda_profit_drop.ipynb' top to bottom
+2. Run 'notebooks/01_eda_profit_drop.ipynb' top to bottom
 3. See 'charts/' for exported visuals
