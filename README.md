@@ -4,7 +4,7 @@
 MIC Market recorded a $200,000 profit decline in H1 2026 vs H1 2025.
 
 ## Objective
-Identify root causes of the profit drop using the transactional and operational data, and recommend data-driven actions to recover losses inH22026.
+Identify root causes of the profit drop using the transactional and operational data, and recommend data-driven actions to recover losses in H2 2026.
 
 ## Data Sources
 **Till Transactions**: Voids,returns, no-sale eventsby staff/register
